@@ -1,7 +1,7 @@
 # CI/CD Pipeline with GitHub Actions for Python Project
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
-![CI](https://github.com/yourusername/ci-cd-python-app/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/heylocalhost/ci-cd-python-app/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
@@ -134,4 +134,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### Contact
 
-For any issues or suggestions, please contact [your-email@example.com].
+For any issues or suggestions, please contact yashcodedev@gmail.com.
